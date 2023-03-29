@@ -16,12 +16,12 @@ Kaiburr Assessment Tasks
 
 ## High-level Directory Overview
 
-imbipulkumar <br/>
+
 ├───Kaiburr <br/>
     ├───screenshots	//Tasks I/O Screenshots and GIF <br/>
     ├───spring-server-generated //Task 2 Source Code and Documentation <br/>
     ├───task1	//Task 1 Source Code and Documentation <br/>
-    ├───task3	//Task 3 Source Code and Documentation <br/>
+ 
     ├───task4	//Task 4 Source Code and Documentation <br/>
     └───README.md	//Brief Documentation
 
@@ -35,7 +35,7 @@ imbipulkumar <br/>
 
 ##### Frontend
 
-- **Rect**
+- **React**
 
 ##### Backend
 - **Spring Boot**
@@ -91,4 +91,4 @@ License
 
 Unilicense
 
-**If you like the project then :star: Star the Repo and connect me on [Linkedin](https://www.linkedin.com/in/imbipulkumar/) :heart:.**
+**If you like the project then :star: Star the Repo and connect me on [Linkedin]https://www.linkedin.com/in/aniket-barsainya-7301581b6 :heart:.**
