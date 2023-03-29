@@ -63,11 +63,7 @@ imbipulkumar <br/>
 
 ![SwaggerUi](/screenshots/task2SwaggerDoc.PNG)
 
-## Task 3
 
-**GOTO:**	[Task 3 Source Code and Documentation](/task3)
-
-![DockerContainer](/screenshots/task3dockerServExcAndLogs.PNG)
 
 ## Task 4
 
@@ -75,13 +71,7 @@ imbipulkumar <br/>
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
-# *Task 5 Extra Miles
 
-![Extra Miles](/screenshots/extraMiles.png)
-
-As George Foreman said:
-
-> Heroes have a rough time because they stand up when they ought not to, they speak when they ought not to; they always have to go that extra mile.
 
 
 
