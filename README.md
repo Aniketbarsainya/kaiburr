@@ -36,10 +36,7 @@
 - **Maven**
 - **NPM**
 - **Git**
-- **Docker**
 
-##### *Production Deployment
-- **AWS EC2**
 
 ## Task 1
 
