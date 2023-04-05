@@ -51,7 +51,7 @@ findServerByName(name);	//axios.get
 
 ![WebUIForm](/screenshots/task4WebUIForm.PNG)
 
-![CreateWebUIForm](/screenshots/createWebUIForm.PNG)
+
 
 ## Containerizing the app
 
