@@ -1,7 +1,4 @@
-Microsoft Windows [Version 10.0.17763.1098]
-(c) 2018 Microsoft Corporation. All rights reserved.
 
-C:\Users\BIPUL KUMAR\Documents\Kaiburr\spring-server-generated>docker-compose up
 Creating network "spring-server-generated_default" with the default driver
 Creating mongodb ... done
 Creating spring-server-generated_spring-server_1 ... done
