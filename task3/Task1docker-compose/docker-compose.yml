@@ -9,7 +9,7 @@ services:
     - 27017:27017
 
   spring-server:
-    image: imbipulkumar/task1javarestapiserver
+    image: aniketbarsainya/task1javarestapiserver
     ports:
     - 8080:8080
     links:
