@@ -6,6 +6,8 @@
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
 - [x] [Task 3. Docker compose](/task3) 
 - [x] [Task 4. WEB UI Forms](/task4)
+- [x] [Task 5. ci or cd pipeline](/ci or cd pipeline)
+
 
 
 
@@ -67,6 +69,12 @@
 ## Task 4
 
 **GOTO:**	[Task 4 Source Code and Documentation](/task4)
+
+![WebUiForms](/screenshots/task4WebUIForm.PNG)
+
+## Task 5
+
+**GOTO:**	[Task 5 Source Code and Documentation](/ci or cd pipeline)
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
