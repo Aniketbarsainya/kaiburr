@@ -4,6 +4,7 @@
 
 - [x] [Task 1. Java REST API](/task1)
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
+- [x] [Task 3. Docker compose](/task3)
 - [x] [Task 4. WEB UI Forms](/task4)
 
 ## High-level Directory Overview
@@ -37,6 +38,7 @@
 - **Maven**
 - **NPM**
 - **Git**
+- **Docker**
 
 
 ## Task 1
