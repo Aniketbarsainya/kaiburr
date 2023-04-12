@@ -76,9 +76,8 @@
 
 **GOTO:**	[Task 5 Source Code and Documentation](/task5)
 
-
-
-
+![CI/CD PIPELINE](/screenshots/task5.png)
+![CI/CD PIPELINE](/screenshots/task5A.png)
 
 
 **If you like the project then :star: Star the Repo and connect me on [Linkedin]https://www.linkedin.com/in/aniket-barsainya-7301581b6 :heart:.**
