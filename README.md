@@ -6,6 +6,8 @@
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
 - [x] [Task 3. Docker compose](/task3)
 - [x] [Task 4. WEB UI Forms](/task4)
+- [x] [Task 5. CI/CD PIPELINE](/task5)
+
 
 ## High-level Directory Overview
 
@@ -16,6 +18,7 @@
     ├───task1	//Task 1 Source Code and Documentation <br/>
     ├───task3 //Task 3 Source Code and Documentation
     ├───task4	//Task 4 Source Code and Documentation <br/>
+    ├───task5	//Task 5 Source Code and Documentation <br/>
     └───README.md	//Brief Documentation
 
 **NOTE**: *Task Building and Deployment steps along with screenshots are Documented inside respective folders*
@@ -66,5 +69,9 @@
 **GOTO:**	[Task 4 Source Code and Documentation](/task4)
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
+
+##Task 5 
+
+**GOTO** [Task 5 source code and documentation](/Task5)
 
 **If you like the project then :star: Star the Repo and connect me on [Linkedin]https://www.linkedin.com/in/aniket-barsainya-7301581b6 :heart:.**
