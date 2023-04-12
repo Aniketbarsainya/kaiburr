@@ -6,7 +6,7 @@
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
 - [x] [Task 3. Docker compose](/task3) 
 - [x] [Task 4. WEB UI Forms](/task4)
-- [x] [Task 5. ci or cd pipeline](/ci or cd pipeline)
+- [x] [Task 5. ci or cd pipeline](/task 5)
 
 
 
@@ -20,7 +20,7 @@
     ├───task1	//Task 1 Source Code and Documentation <br/>
     ├───task3 //Task 3 Source Code and Documentation <br/>
     ├───task4	//Task 4 Source Code and Documentation <br/>
-    ├───task5	//Task 5 Source Code and Documentation <br/>
+    ├───task 5	//Task 5 Source Code and Documentation <br/>
     └───README.md	//Brief Documentation
 
 **NOTE**: *Task Building and Deployment steps along with screenshots are Documented inside respective folders*
@@ -74,7 +74,7 @@
 
 ## Task 5
 
-**GOTO:**	[Task 5 Source Code and Documentation](/ci or cd pipeline)
+**GOTO:**	[Task 5 Source Code and Documentation](/task 5)
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
