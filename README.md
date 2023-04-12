@@ -13,6 +13,7 @@
     ├───screenshots	//Tasks I/O Screenshots and GIF <br/>
     ├───spring-server-generated //Task 2 Source Code and Documentation <br/>
     ├───task1	//Task 1 Source Code and Documentation <br/>
+    ├───task3 //Task 3 Source Code and Documentation
     ├───task4	//Task 4 Source Code and Documentation <br/>
     └───README.md	//Brief Documentation
 
@@ -49,6 +50,12 @@
 **GOTO:**	[Task 2 Source Code and Documentation](/spring-server-generated)
 
 ![SwaggerUi](/screenshots/task2SwaggerDoc.PNG)
+
+## Task 3
+
+**GOTO:**	[Task 3 Source Code and Documentation](/task3)
+
+![DockerContainer](/screenshots/task3dockerServExcAndLogs.PNG)
 
 
 
