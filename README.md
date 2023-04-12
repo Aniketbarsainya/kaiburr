@@ -6,7 +6,7 @@
 - [x] [Task 2. Swagger codegen](/spring-server-generated)
 - [x] [Task 3. Docker compose](/task3) 
 - [x] [Task 4. WEB UI Forms](/task4)
-- [x] [Task 5. ci or cd pipeline](/task5)
+
 
 
 ## High-level Directory Overview
@@ -70,9 +70,7 @@
 
 ![WebUiForms](/screenshots/task4WebUIForm.PNG)
 
-## Task 5 
 
-**GOTO:** [ci or cd pipeline source code and Documentation](/ci or cd pipeline)
 
 
 **If you like the project then :star: Star the Repo and connect me on [Linkedin]https://www.linkedin.com/in/aniket-barsainya-7301581b6 :heart:.**
